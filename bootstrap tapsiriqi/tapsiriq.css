@@ -1,0 +1,44 @@
+.nav-link  {
+    color: white;
+}
+.container-fluid { 
+display: flex;
+}
+.collapse {
+    margin-left: 67%;
+}
+.section1 {
+    background-color: rgb(40,126,253);
+    color: white;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 100px;
+    
+}
+.section1_btn {
+    border: none;
+    padding: 6px;
+    border-radius:  10px;
+    
+}
+.section1_btn a {
+    text-decoration: none;
+    color: black;
+}
+.section2 {
+    padding: 150px 0px 75px;
+}
+.section3 {
+    padding: 75px 0px;
+}
+.section4 {
+    padding: 75px 0px 150px;
+}
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px ;
+    padding-bottom: 50px;
+
+}
